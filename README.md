@@ -1,4 +1,6 @@
-# lab2
+# Vue Simple project
+
+# You must Download project and run json-server locally
 
 ## Project setup
 ```
